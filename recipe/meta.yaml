@@ -1,5 +1,5 @@
 {% set name = "orekit_jpype" %}
-{% set version = "12.2.1.2" %}
+{% set version = "13.0.1.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: aede79e5fed064fbd6b0bba986b94f465eaf799a4091b0e0dbe96bc35a53cfd9
+  sha256: adfe0e4fd41ba4ece05c2f3357cfb4c19aa52f82de62b0d334a95302db7cfad8
 
 build:
   noarch: python
@@ -34,7 +34,7 @@ test:
     - openjdk
   commands:
     - pip check
-    - python -c "import orekit_jpype; orekit_jpype.initVM()" 
+    - python -c "import orekit_jpype; orekit_jpype.initVM()"
 
 about:
   home: https://gitlab.orekit.org/orekit/orekit_jpype/-/tree/master

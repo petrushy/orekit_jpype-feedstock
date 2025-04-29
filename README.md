@@ -38,7 +38,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-orekit_jpype-green.svg)](https://anaconda.org/conda-forge/orekit_jpype) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/orekit_jpype.svg)](https://anaconda.org/conda-forge/orekit_jpype) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/orekit_jpype.svg)](https://anaconda.org/conda-forge/orekit_jpype) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/orekit_jpype.svg)](https://anaconda.org/conda-forge/orekit_jpype) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-orekit__jpype-green.svg)](https://anaconda.org/conda-forge/orekit_jpype) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/orekit_jpype.svg)](https://anaconda.org/conda-forge/orekit_jpype) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/orekit_jpype.svg)](https://anaconda.org/conda-forge/orekit_jpype) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/orekit_jpype.svg)](https://anaconda.org/conda-forge/orekit_jpype) |
 
 Installing orekit_jpype
 =======================
